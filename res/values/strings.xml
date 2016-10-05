@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora01</string>
+    
+    <string name="label_valor1">Valor 1:</string>
+    <string name="hint_valor1">digite um valor</string>
+    
+    <string name="label_valor2">Valor 2:</string>
+    <string name="hint_valor2">digite um valor</string>
+    
+    <string name="label_botaoSoma">+</string>
+    <string name="label_botaoSubtracao">-</string>
+    <string name="label_botaoMultiplicacao">*</string>
+    <string name="label_botaoDivisao">/</string>
+    
+    <string name="label_resultado">Resultado:</string>
+    
+    <string name="action_settings">Settings</string>
+    
+    
+
+</resources>
